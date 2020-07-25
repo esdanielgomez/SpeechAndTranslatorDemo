@@ -2,7 +2,7 @@ import os, requests, time
 from xml.etree import ElementTree
 import uuid, json
 
-suscripcionTexto = "35c90cf05cfa4e0eae627e6ef032ffe5"
+suscripcionTexto = "YOUR_TRANSLATOR_KEY"
 
 def traducirTexto(texto, idiomaInicial, idiomaFinal):
     
