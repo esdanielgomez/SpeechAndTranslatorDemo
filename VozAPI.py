@@ -3,7 +3,7 @@ import os, requests, time
 from xml.etree import ElementTree
 import uuid, json
 
-suscripcionVoz = "96910b4b3a154c758ff7ff8f1515b624"
+suscripcionVoz = "YOUR_KEY"
 
 def getTextoDeVoz(idiomaVoz):
 
